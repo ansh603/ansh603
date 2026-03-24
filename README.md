@@ -36,8 +36,6 @@
 
 ## 🚀 About Me
 
-<img align="right" width="300" src="developer.png">
-
 Hey there! 👋 I'm **Ghanshyam Batane**, an Information Technology student and Full Stack Developer passionate about building scalable web applications and solving real world problems.
 
 • 💻 Building full stack apps using **React.js & Node.js**  
