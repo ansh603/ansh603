@@ -3,10 +3,6 @@
 <h3 align="center">Full Stack Developer | DSA Enthusiast | IT Student</h3>
 
 <p align="center">
-<img src="https://github.com/ansh603.png" width="130" style="border-radius:50%">
-</p>
-
-<p align="center">
 
 <a href="https://www.linkedin.com/in/ghanshyam-batane-9a586a297">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
