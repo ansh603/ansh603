@@ -1,86 +1,111 @@
+<h1 align="center">Hi 👋, I'm Ghanshyam Batane</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Ghanshyam%20Batane&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%2B%20Node.js&descAlignY=58&descSize=16"/>
+<h3 align="center">Full Stack Developer | DSA Enthusiast | IT Student</h3>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=Building+scalable+full+stack+apps+🚀;300%2B+LeetCode+problems+solved+💪;React.js+%2B+Node.js+%2B+MongoDB;Open+to+collaborate+and+learn!" />
-  </a>
+<img src="https://github.com/ansh603.png" width="130" style="border-radius:50%">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ansh603&style=flat-square&color=0e75b6" />
-  <a href="https://linkedin.com/in/ghanshyam-batane"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ghanshyambatane19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://ghanshyambatane.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+
+<a href="https://www.linkedin.com/in/ghanshyam-batane-9a586a297">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:ghanshyambatane19@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/ansh603">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/ansh603?tab=followers">
+<img src="https://img.shields.io/github/followers/ansh603?label=Follow&style=social">
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2B+Node+Developer;DSA+Problem+Solver;Always+Learning+New+Technologies">
+
 </p>
 
 ---
 
-### 👨‍💻 About Me
+<img align="right" width="380" alt="Full Stack Developer" src="https://user-images.githubusercontent.com/74038190/212897782-965815c7-54c4-4f4f-87b3-5f2e6d0c6b1b.gif">
 
-- 🎓 B.E. Information Technology @ **IET DAVV** (2023–2027)
-- 🔭 Currently building **Connctly** — a location-based community platform
-- 🧠 Solved **300+ problems** on LeetCode
-- 💬 Ask me about **React.js, Node.js, MongoDB, DSA**
-- 📩 **ghanshyambatane19@gmail.com** | +91-6268249253
+### 🚀 About Me
 
----
+Hey there! 👋 I'm **Ghanshyam Batane**, an Information Technology student and Full Stack Developer passionate about building scalable web applications and solving real world problems.
 
-### 🛠️ Tech Stack
+• 💻 Building full stack apps using **React.js & Node.js**  
+• 🔐 Developing secure **REST APIs & JWT Authentication**  
+• 🗄️ Working with **MongoDB & MySQL**  
+• ☁️ Deploying applications on **Vercel & Render**  
+• 🧠 Solved **300+ DSA problems**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+⚡ When I'm not coding, I'm solving DSA problems and improving backend skills.
 
 ---
 
-### 📌 Popular Repositories
+## 🛠️ Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ansh603/connctly-frontend">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ansh603&repo=connctly-frontend&theme=tokyonight&hide_border=true&show_owner=false"/>
-  </a>
-  <a href="https://github.com/ansh603/connctly-backend">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ansh603&repo=connctly-backend&theme=tokyonight&hide_border=true&show_owner=false"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ansh603/significo-clone">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ansh603&repo=significo-clone&theme=tokyonight&hide_border=true&show_owner=false"/>
-  </a>
-  <a href="https://github.com/ansh603/business-landing-page">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ansh603&repo=business-landing-page&theme=tokyonight&hide_border=true&show_owner=false"/>
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ansh603&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh603&theme=tokyonight"/>
+
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📈 Most Used Languages
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ansh603&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ansh603&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh603&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ansh603&show_icons=true&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-<!-- Pac-Man Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansh603/ansh603/output/pacman-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ansh603/ansh603/output/pacman.svg"/>
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ansh603/ansh603/output/pacman.svg"/>
-</picture>
+## ⭐ Featured Projects
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<p align="center">
+
+<a href="https://github.com/ansh603/connectly-website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ansh603&repo=connectly-website&theme=tokyonight">
+</a>
+
+<a href="https://github.com/ansh603/connectly-backend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ansh603&repo=connectly-backend&theme=tokyonight">
+</a>
+
+</p>
+
+---
+
+## 📅 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh603&theme=tokyo-night"/>
+
+</p>
+
+---
+
+⭐ From **Ghanshyam Batane**
