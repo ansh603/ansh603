@@ -38,9 +38,9 @@
 
 ---
 
-<img align="right" width="380" alt="Full Stack Developer" src="https://user-images.githubusercontent.com/74038190/212897782-965815c7-54c4-4f4f-87b3-5f2e6d0c6b1b.gif">
+## 🚀 About Me
 
-### 🚀 About Me
+<img align="right" width="300" src="developer.png">
 
 Hey there! 👋 I'm **Ghanshyam Batane**, an Information Technology student and Full Stack Developer passionate about building scalable web applications and solving real world problems.
 
@@ -51,6 +51,8 @@ Hey there! 👋 I'm **Ghanshyam Batane**, an Information Technology student and 
 • 🧠 Solved **300+ DSA problems**
 
 ⚡ When I'm not coding, I'm solving DSA problems and improving backend skills.
+
+<br clear="right"/>
 
 ---
 
@@ -105,6 +107,15 @@ Hey there! 👋 I'm **Ghanshyam Batane**, an Information Technology student and 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh603&theme=tokyo-night"/>
 
 </p>
+
+---
+
+## 🎯 Current Focus
+
+• Backend Development  
+• Advanced DSA  
+• System Design Basics  
+• Production Ready Applications  
 
 ---
 
